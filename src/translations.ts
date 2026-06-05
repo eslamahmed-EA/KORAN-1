@@ -38,7 +38,7 @@ export const UI_TRANSLATIONS = {
     genevaAddr: "Rue du Rhone 14,\nGeneva 1204, Switzerland",
     gpsSeeded: "GPS COORDINATES SEEDED",
     socialLinks: "SOCIAL LINKS",
-    allRights: "© 2026 VENTARIA STUDIO. ALL RIGHTS SEEDED UNDER GLOBAL NDA GUARANTEES.",
+  allRights: "© 2026 VENTARIA. ALL RIGHTS SEEDED UNDER GLOBAL NDA GUARANTEES.",
     compSpeeds: "95+ COMPILATION SPEEDS",
     accuracySecured: "SYSTEM ACCURACY SECURED",
     coreDisciplines: "CORE DISCIPLINES",
@@ -107,7 +107,7 @@ export const UI_TRANSLATIONS = {
     aboutHeroSub: "We are an elite, highly specialized squad of digital designers, interface engineers, and conversion scientists. We do not work for everyone; we collaborate only with ambitious leaders.",
     corporateChronicle: "01 // CORPORATE CHRONICLE",
     howBornTitle: "How Ventaria Was Born",
-    howBornP1: "Founded in 2021 by e-commerce designer Jean-Pierre Durand and system engineer Tariq Farooq, Ventaria Studio arose from a deep irritation with slow, generic themes holding back high-end DTC brands.",
+  howBornP1: "Founded in 2021 by e-commerce designer Jean-Pierre Durand and system engineer Tariq Farooq, Ventaria arose from a deep irritation with slow, generic themes holding back high-end DTC brands.",
     howBornP2: "We realized that premium brands were pouring massive capital into paid commercials to drive traffic to storefronts that looked like cheap duplicates of each other, loading sluggishly. Our absolute mandate is to combine world-class Swiss design aesthetics with lightning-fast custom coding.",
     theIntellectualMatrix: "THE INTELLECTUAL MATRIX",
     coreMissionTitle: "CORE MISSION STATEMENT",
@@ -137,7 +137,7 @@ export const UI_TRANSLATIONS = {
     readArchitecture: "READ ARCHITECTURE",
     literatureArchive: "LITERATURE READING ARCHIVE",
     keyTakeaway: "KEY TAKEAWAY: Prioritize visual performance budgets. High-luxury buyers choose speed and prestige layout. Templetization actively harms AOV.",
-    endDocument: "VENTARIA STUDIO DIRECT RESEARCH ARCHIVE // END OF DOCUMENT",
+  endDocument: "VENTARIA DIRECT RESEARCH ARCHIVE // END OF DOCUMENT",
     // Case studies
     caseStudiesTitle: "CASE STUDIES ARCHIVE",
     empiricalCaseStudies: "THE EMPIRICAL CHRONICLES.",
@@ -951,7 +951,7 @@ export const TESTIMONIALS_DATA_EN: Testimonial[] = [
     name: "Khalid Bin Suliman",
     role: "Founder & Creative Director",
     company: "Luna Gazing Cosmetics (Saudi Arabia)",
-    content: "Ventaria Studio completely transformed our online presence. By utilizing the Salla Twilight engine and designing a completely custom Arabic luxury layout, our average order value skyrocketed to SAR 340. They didn't just write theme code—they understood our regional luxury audience on a cellular level.",
+  content: "Ventaria completely transformed our online presence. By utilizing the Salla Twilight engine and designing a completely custom Arabic luxury layout, our average order value skyrocketed to SAR 340. They didn't just write theme code—they understood our regional luxury audience on a cellular level.",
     avatar: "KS",
     rating: 5
   },
@@ -1135,7 +1135,7 @@ export const FAQS_DATA_EN: FAQItem[] = [
   {
     id: "faq-1",
     question: "Why should we hire Ventaria instead of a standard local web freelancer?",
-    answer: "Ventaria Studio does not compile raw websites; we engineer revenue-generating e-commerce machines with custom design and absolute styling discipline. Every line of code is handwritten for premium performance, and our team integrates elite regional localization (Saudi, GCC) alongside international luxury standard branding. Standard developers rarely understand average order value, conversion funnels, and unboxing logistics.",
+  answer: "Ventaria does not compile raw websites; we engineer revenue-generating e-commerce machines with custom design and absolute styling discipline. Every line of code is handwritten for premium performance, and our team integrates elite regional localization (Saudi, GCC) alongside international luxury standard branding. Standard developers rarely understand average order value, conversion funnels, and unboxing logistics.",
     category: "General"
   },
   {

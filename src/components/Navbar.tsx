@@ -48,9 +48,9 @@ export default function Navbar({ currentPage, setCurrentPage, lang, setLang }: N
             className="flex items-center gap-3 text-left focus:outline-none cursor-pointer group"
             id="nav-logo-btn"
           >
-            <div className="w-6 h-6 bg-accent rounded-xs rotate-45 transition-transform duration-500 group-hover:rotate-[225deg]" />
+            <img src="/assets/ventaria-logo.svg" alt="Ventaria logo" className="w-6 h-6 object-contain transition-transform duration-300 group-hover:scale-105" />
             <span className="text-2xl font-extrabold tracking-tighter text-white">
-              {UI_TRANSLATIONS[lang].brandName} <span className="font-light text-zinc-500">{UI_TRANSLATIONS[lang].studio}</span>
+              {UI_TRANSLATIONS[lang].brandName}
             </span>
           </button>
 

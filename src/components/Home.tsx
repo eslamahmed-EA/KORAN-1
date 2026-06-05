@@ -805,7 +805,7 @@ export default function Home({ setCurrentPage, setSelectedServiceId, setSelected
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] rounded-full bg-accent/10 blur-3xl" />
           
           <div className="relative z-10 space-y-6 max-w-2xl mx-auto">
-            <span className="text-xs font-mono tracking-[0.3em] text-accent uppercase font-bold block">{lang === "ar" ? "ارتق بمتجرك مع فينتاريا اليوم" : "ENGAGE VENTARIA STUDIO TODAY"}</span>
+            <span className="text-xs font-mono tracking-[0.3em] text-accent uppercase font-bold block">{lang === "ar" ? "ارتق بمتجرك مع فينتاريا اليوم" : "ENGAGE VENTARIA TODAY"}</span>
             <h2 className="text-4xl md:text-6xl font-extrabold tracking-tight leading-tight">
               {lang === "ar" ? "هل أنت مستعد لمضاعفة أرباحك؟" : "Ready to double your store sales?"}
             </h2>
